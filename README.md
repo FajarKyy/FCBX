@@ -1,7 +1,7 @@
 # FCBX
 
-```Gambar Cuma Pemanis```
-![deskripsi gambar](https://ibb.co/7JxHnym)
+# Gambar Cuma Pemanis
+![deskripsi gambar](https://ibb.co/7JxHnym/Screenshot_2024-02-20-18-34-58-363_com.termux)
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
