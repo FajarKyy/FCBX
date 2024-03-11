@@ -1,6 +1,7 @@
 # FCBX
 
-![img_1_1710041942067](https://github.com/FajarKyy/FCBX/assets/123274988/88aa410a-2a0f-4567-b36c-0abb13401678)
+![1710135698117](https://github.com/FajarKyy/FCBX/assets/123274988/45a1dad4-51d5-4437-87a1-b13432f7f025)
+
 # Instalation
 Download apk Termuxnya disini biar ngga eror
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)
